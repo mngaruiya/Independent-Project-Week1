@@ -12,7 +12,7 @@ I have created my web page that tells everything about me more of a Carriculum V
 Come up with a web page that tells us about you,deploy your site onto git hup pages so that a live HTML site can be viewed in a browser.
 
 ## Link to live site.
-
+https://mngaruiya.github.io/Independent-Project-Week1/
 
 ## Copyright and Licence Information
 To the extent possible under law, moringa school has waived all copyright and related or neighboring rights to this work.
