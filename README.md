@@ -14,6 +14,6 @@ Come up with a web page that tells us about you,deploy your site onto git hup pa
 ## Link to live site.
 https://mngaruiya.github.io/Independent-Project-Week1/
 
-## Copyright and Licence Information
+## Copyrightgis and Licence Information
 To the extent possible under law, moringa school has waived all copyright and related or neighboring rights to this work.
 # Independent-Project-Week1
